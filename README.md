@@ -13,3 +13,8 @@ As someone with a non-traditional background, I approach problems like a designe
 ### Where to find me 🌏 :
 - Contact me on [LinkedIn](https://www.linkedin.com/in/johchai/)
 - Doing some 3D stuff on [Instagram](https://www.instagram.com/johnsaaz)
+
+### Languages Stats For The Last 7 Days 🕛 :
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/0cd14e89-b357-451d-b5c1-4a79286fb5a6.svg)](https://wakatime.com/@0cd14e89-b357-451d-b5c1-4a79286fb5a6)
