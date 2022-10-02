@@ -22,12 +22,12 @@ As someone with a non-traditional background, I approach problems like a designe
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 57 mins   █████████████████▓░░░░░░░   70.16 %
-Vue.js       1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
-Bash         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-Markdown     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+TypeScript   5 hrs 57 mins   ████████████████░░░░░░░░░   64.65 %
+Vue.js       1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
+Bash         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+JavaScript   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+JSON         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Markdown     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->
