@@ -17,7 +17,7 @@ As someone with a non-traditional background, I approach problems like a designe
 - React.js, Express.js, Next.js, TailWind CSS, Bootstrap, WordPress
 - Adobe Creative Cloud, Autodesk Maya, Blender, Unity, Figma, Git
 
-### Languages stats for the last 7 days 🕛 :
+### Languages stats for the last 14 days 🕛 :
 
 <!--START_SECTION:waka-->
 
