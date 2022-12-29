@@ -7,7 +7,7 @@ As someone with a non-traditional background, I approach problems like a designe
 ### What I am doing now 🧑‍💻:
 
 - 🔭 I’m currently broadening my knowledge on backend development tools and technologies(Express.js, Postgres etc).
-- ✨ I’m looking for help with securing my first junior position as a frontend web developer.
+- ✨ I'm currently a frontend developer.
 - 🌏 Contact me on [LinkedIn](https://www.linkedin.com/in/johchai/)
 - 🎨 Doing some 3D stuff on [Instagram](https://www.instagram.com/johnsaaz)
 
