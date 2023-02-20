@@ -22,12 +22,12 @@ As someone with a non-traditional background, I approach problems like a designe
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       26 hrs 29 mins  ███████████████████▓░░░░░   78.77 %
-JSON             2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Blade Template   1 hr 53 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-JavaScript       1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-PHP              33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-INI              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+TypeScript       26 hrs 29 mins  ████████████████████▒░░░░   80.72 %
+JSON             2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Blade Template   1 hr 53 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+JavaScript       56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+PHP              33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+INI              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
