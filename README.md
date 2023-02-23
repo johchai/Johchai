@@ -22,12 +22,12 @@ As someone with a non-traditional background, I approach problems like a designe
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       25 hrs 31 mins  ██████████████████████▒░░   88.99 %
-Blade Template   1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-PHP              33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-JSON             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-INI              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-CSS              7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+TypeScript       28 hrs 20 mins  ████████████████████████░   95.69 %
+CSS              37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+JSON             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+JavaScript       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+TSConfig         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Blade Template   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
