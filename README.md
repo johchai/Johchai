@@ -22,12 +22,12 @@ As someone with a non-traditional background, I approach problems like a designe
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   23 hrs 58 mins  █████████████████████▓░░░   87.02 %
-CSS          1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-JSON         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-JavaScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-HTML         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Bash         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+TypeScript   23 hrs 8 mins   ██████████████████████▒░░   88.97 %
+JSON         1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+JavaScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Bash         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+HTML         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Other        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
