@@ -22,8 +22,8 @@ As someone with a non-traditional background, I approach problems like a designe
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   27 hrs 33 mins  ████████████████████████▒   97.96 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+TypeScript   27 hrs 54 mins  ████████████████████████▓   98.53 %
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
