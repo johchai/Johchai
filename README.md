@@ -22,7 +22,7 @@ As someone with a non-traditional background, I approach problems like a designe
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       25 hrs 33 mins  ███████████████████▓░░░░░   78.51 %
+TypeScript       25 hrs 32 mins  ███████████████████▓░░░░░   78.50 %
 Bash             1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
 SQL              1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 TSQL             1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
