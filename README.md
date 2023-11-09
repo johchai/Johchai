@@ -22,8 +22,8 @@ As someone with a non-traditional background, I approach problems like a designe
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   63 hrs 21 mins  ████████████████████████░   96.46 %
-JSON         1 hr 16 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+TypeScript   63 hrs 23 mins  ████████████████████████░   95.86 %
+JSON         1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 Other        19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 YAML         17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 CSS          14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
