@@ -22,11 +22,11 @@ As someone with a non-traditional background, I approach problems like a designe
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    37 hrs 57 mins  ██████████████████████▓░░   90.36 %
-Bash          49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Other         44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-JSON          39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Docker        30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+TypeScript    38 hrs 34 mins  ███████████████████████▓░   94.00 %
+Other         36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+JSON          33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+MDX           25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+HTML          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
