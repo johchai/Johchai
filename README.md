@@ -22,11 +22,11 @@ As someone with a non-traditional background, I approach problems like a designe
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   36 hrs 59 mins  ███████████████████████▒░   93.62 %
-SQL          50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+TypeScript   37 hrs 5 mins   ███████████████████████▒░   93.94 %
 Other        50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+SQL          34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 JSON         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Bash         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Bash         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
