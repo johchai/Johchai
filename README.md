@@ -1,20 +1,17 @@
-# Hi, I'm Johnny 👋🧑‍
+# Hi, I'm Johnny 👋
 
-I'm a self-taught Front-End developer with a passion for interaction design & problem-solving. I mostly work on the intersection of digital design especially projects that span different or unique mediums.
-
-As someone with a non-traditional background, I approach problems like a designer with knowledge from my previous field. I like to see myself as a bridge between designers and developers. Someone who understands both sides' language and translates practicality and constraint.
+Currently a Front End Developer @ MEO Studio with four years of experience in both in-house and agency environments, working across design and tech industries to build engaging digital experiences.
 
 ### What I am doing now 🧑‍💻:
 
 - 🔭 I’m currently broadening my knowledge on backend development tools and technologies(Express.js, Postgres etc).
 - ✨ Currently working full-time as a frontend developer.
-- 📖 Always hungry for knowledge & stay up-to-date with the latest technologies and trends.
 - 🌏 Contact me on [LinkedIn](https://www.linkedin.com/in/johchai/)
 
 ### Tools & Languages used ⚙️ :
 
-- HTML & SCSS, Javascript, Typescript
-- React.js, Express.js, Next.js, TailWind CSS, Bootstrap
+- Javascript, Typescript
+- React.js, Express.js, Next.js, Node.js, TailWindCSS
 - Adobe Creative Cloud, Autodesk Maya, Blender, Unity, Git
 
 ### Languages stats for the last 14 days 🕛 :
