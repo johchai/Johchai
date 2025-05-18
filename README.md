@@ -4,15 +4,15 @@ Currently a Front End Developer @ MEO Studio with four years of experience in bo
 
 ### What I am doing now 🧑‍💻:
 
-- 🔭 I’m currently broadening my knowledge on backend development tools and technologies(Express.js, Postgres etc).
-- ✨ Currently working full-time as a frontend developer.
+- 🔭 I’m currently diving deeper into deployment tooling—specifically containerization with Docker and managing Linux-based server environments. Also focusing on unit and integration testing for reliable frontend.
+- ✨ Currently working full-time as a front-end developer.
 - 🌏 Contact me on [LinkedIn](https://www.linkedin.com/in/johchai/)
 
 ### Tools & Languages used ⚙️ :
 
-- Javascript, Typescript
+- Typescript
 - React.js, Express.js, Next.js, Node.js, TailWindCSS
-- Adobe Creative Cloud, Autodesk Maya, Blender, Unity, Git
+- Docker, Blender, Git
 
 ### Languages stats for the last 14 days 🕛 :
 
