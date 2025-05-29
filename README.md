@@ -19,11 +19,11 @@ Currently a Front End Developer @ MEO Studio with four years of experience in bo
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 17 hrs 45 mins  █████████████████▒░░░░░░░   68.73 %
-JSON                       2 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-Prisma                     1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-Dart                       53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-YAML                       43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+TypeScript                 14 hrs 41 mins  ███████████████████▒░░░░░   77.70 %
+Prisma                     1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Dart                       53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+JSON                       51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+YAML                       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
