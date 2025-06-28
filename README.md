@@ -10,9 +10,7 @@ Currently a Front End Developer @ MEO Studio with four years of experience in bo
 
 ### Tools & Languages used ⚙️ :
 
-- Typescript
-- React.js, Express.js, Next.js, Node.js, TailWindCSS
-- Docker, Blender, Git
+Key areas of work include front-end development with React and Next.js, integrating REST APIs, building 3D interfaces with Three.js, managing content with Strapi, and using Docker for containerization.
 
 ### Languages stats for the last 14 days 🕛 :
 
