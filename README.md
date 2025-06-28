@@ -1,6 +1,6 @@
 # Hi, I'm Johnny 👋
 
-Currently a Front End Developer @ MEO Studio with four years of experience in both in-house and agency environments, working across design and tech industries to build engaging digital experiences.
+Currently a Front End Developer @ MEO Studio crafting intuitive, polished digital experiences with a focus on detail and user-centered design.
 
 ### What I am doing now 🧑‍💻:
 
