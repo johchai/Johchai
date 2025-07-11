@@ -2,6 +2,8 @@
 
 Currently a Front End Developer @ MEO Studio crafting intuitive, polished digital experiences with a focus on detail and user-centered design.
 
+Just a heads-up, most of my coding activity happens in private GitLab repos at work, so I’m not very active on GitHub.
+
 ### What I am doing now 🧑‍💻:
 
 - 🔭 I’m currently diving deeper into deployment tooling—specifically containerization with Docker and managing Linux-based server environments. Also focusing on unit and integration testing for reliable frontend.
