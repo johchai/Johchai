@@ -19,11 +19,11 @@ Key areas of work include front-end development with React and Next.js, integrat
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    26 hrs 44 mins  ████████████████████▓░░░░   82.41 %
-JSON          3 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-Bash          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Markdown      23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Other         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+TypeScript    26 hrs 50 mins  ████████████████████▒░░░░   81.02 %
+JSON          3 hrs 35 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+JavaScript    51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Bash          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Markdown      24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
