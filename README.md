@@ -1,18 +1,18 @@
 # Hi, I'm Johnny 👋
 
-Currently a Front End Developer @ MEO Studio crafting intuitive, polished digital experiences with a focus on detail and user-centered design.
+Currently a Software Engineer @ MEO Studio crafting intuitive, polished digital experiences with a focus on detail and user-centered design.
 
 Just a heads-up, most of my coding activity happens in private GitLab repos at work, so I’m not very active on GitHub.
 
 ### What I am doing now 🧑‍💻:
 
 - 🔭 I’m currently diving deeper into deployment tooling—specifically containerization with Docker and managing Linux-based server environments. Also focusing on unit and integration testing for reliable frontend.
-- ✨ Currently working full-time as a front-end developer.
+- ✨ Currently working full-time as a software engineer.
 - 🌏 Contact me on [LinkedIn](https://www.linkedin.com/in/johchai/)
 
 ### Tools & Languages used ⚙️ :
 
-Key areas of work include front-end development with React and Next.js, integrating REST APIs, building 3D interfaces with Three.js, managing content with Strapi, and using Docker for containerization.
+Key area of work include React and Next.js on the front-end, and Express with MySQL on the back-end. I use Docker to keep environments clean and portable, and I've been diving into Cloudflare's ecosystem for edge deployments.
 
 ### Languages stats for the last 14 days 🕛 :
 
