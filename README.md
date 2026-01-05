@@ -19,11 +19,11 @@ Key area of work include React and Next.js on the front-end, and Express with My
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    5 hrs 35 mins   ██████████████▓░░░░░░░░░░   59.13 %
-JSON          1 hr 20 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
-Prisma        1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-HTML          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Markdown      18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+TypeScript    4 hrs 59 mins   ██████████████▒░░░░░░░░░░   57.01 %
+JSON          1 hr 20 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
+Prisma        53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+HTML          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Markdown      18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 ```
 
 <!--END_SECTION:waka-->
