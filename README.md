@@ -19,11 +19,11 @@ Key area of work include React and Next.js on the front-end, and Express with My
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      1 hr 3 mins     ████████░░░░░░░░░░░░░░░░░   32.60 %
-HTML          43 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
-Image (svg)   21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-SCSS          17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-JSON          13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Markdown      1 hr 5 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
+JSON          1 hr            █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
+HTML          55 mins         █████░░░░░░░░░░░░░░░░░░░░   19.46 %
+Python        28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+Image (svg)   26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
 ```
 
 <!--END_SECTION:waka-->
