@@ -1,8 +1,10 @@
 # Hi, I'm Johnny 👋
 
-Currently a Software Engineer @ MEO Studio crafting intuitive, polished digital experiences with a focus on detail and user-centered design.
+I’m a frontend developer working on an internal enterprise web platform at an AI-focused company, currently building and maintaining production user interfaces using TypeScript and Angular.
 
-Just a heads-up, most of my coding activity happens in private GitLab repos at work, so I’m not very active on GitHub.
+React is my strongest frontend skill. I have solid experience building React and Next.js applications, with a focus on clean UI, component-driven architecture, and maintainable code.
+
+In my current role, I work within a MEAN-stack codebase, fixing UI and functional bugs, improving styling and responsiveness, and collaborating through ticketed tasks to improve usability and stability in a live internal product.
 
 ### What I am doing now 🧑‍💻:
 
