@@ -1,6 +1,6 @@
 # Hi, I'm Johnny 👋
 
-I’m a frontend developer working on an internal enterprise web platform at an AI-focused company, currently building and maintaining production user interfaces using TypeScript and Angular.
+I’m a full stack developer working on an internal enterprise web platform at an AI-focused company, currently building and maintaining production user interfaces using TypeScript and Angular.
 
 React is my strongest frontend skill. I have solid experience building React and Next.js applications, with a focus on clean UI, component-driven architecture, and maintainable code.
 
@@ -8,13 +8,9 @@ In my current role, I work within a MEAN-stack codebase, fixing UI and functiona
 
 ### What I am doing now 🧑‍💻:
 
-- 🔭 I’m currently diving deeper into deployment tooling—specifically containerization with Docker and managing Linux-based server environments. Also focusing on unit and integration testing for reliable frontend.
-- ✨ Currently working full-time as a software engineer.
+- 🔭 I’m currently diving deeper into deployment tooling—specifically containerization with Docker and managing Linux-based server environments.
+- ✨ Currently working full-time as a full stack developer.
 - 🌏 Contact me on [LinkedIn](https://www.linkedin.com/in/johchai/)
-
-### Tools & Languages used ⚙️ :
-
-Key area of work include React and Next.js on the front-end, and Express with MySQL on the back-end. I use Docker to keep environments clean and portable, and I've been diving into Cloudflare's ecosystem for edge deployments.
 
 ### Languages stats for the last 14 days 🕛 :
 
