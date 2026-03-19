@@ -17,11 +17,11 @@ In my current role, I work within a MEAN-stack codebase, fixing UI and functiona
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   20 hrs 6 mins         ██████████████▒░░░░░░░░░░   57.52 %
-JavaScript   4 hrs 56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-YAML         2 hrs 52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-Markdown     2 hrs 7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-JSON         2 hrs 1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+TypeScript   18 hrs 59 mins        █████████████▓░░░░░░░░░░░   55.28 %
+JavaScript   7 hrs 37 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
+YAML         2 hrs 3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+JSON         1 hr 49 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Markdown     1 hr 28 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 ```
 
 <!--END_SECTION:waka-->
