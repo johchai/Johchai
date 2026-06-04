@@ -17,9 +17,7 @@ In my current role, I work within a MEAN-stack codebase, fixing UI and functiona
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   33 mins               █████████████▓░░░░░░░░░░░   54.41 %
-Python     23 mins               █████████▒░░░░░░░░░░░░░░░   37.98 %
-JSON       4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
